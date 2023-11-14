@@ -1,0 +1,1 @@
+passing dynamic data via props, create reusable component which allows passage of different data to each page
